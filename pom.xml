@@ -4,7 +4,7 @@
 
     <groupId>com.beyond</groupId>
     <artifactId>beyond-dependencies</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.0.RELEASE</version>
     <packaging>pom</packaging>
     <url>http://www.beyond.com</url>
     <inceptionYear>2020-Now</inceptionYear>
@@ -38,8 +38,8 @@
         <hutool.version>5.3.5</hutool.version>
 
         <!-- Projects -->
-        <beyond.version>1.0.0.RELEASE</beyond.version>
-        <beyond.development.version>1.0.1-SNAPSHOT</beyond.development.version>
+        <beyond.version>1.0.1.RELEASE</beyond.version>
+        <beyond.development.version>1.0.2-SNAPSHOT</beyond.development.version>
     </properties>
 
 
